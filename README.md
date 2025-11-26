@@ -18,6 +18,7 @@ This code:
 **Compile:**  
 ```bash
 gcc -O3 hkg_t-matrix.c -o hkg_t-matrix
+```
 
 ### **2. `hkg_disorder-average/` – Real-space simulation with impurity averaging (C++)**
 A C++ code performing real-space simulations of a disordered spin model with quenched bond disorder.
