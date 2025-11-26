@@ -44,5 +44,6 @@ If Eigen is installed system-wide or located in `/path/to/eigen`:
 
 ```bash
 g++ -O3 -fopenmp -I /path/to/eigen hkg_disorder-average.cpp -o hkg_disorder-average
+```
 
 If OpenMP is unavailable, compile without it.
