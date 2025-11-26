@@ -29,7 +29,7 @@ It:
 -averages results over many disorder realisations,
 -optionally parallelises this loop using OpenMP.
 
-** Dependencies**
+**Dependencies**
 
 - C++ compiler (e.g. `g++`)
 - **Eigen** (header-only linear algebra library): https://eigen.tuxfamily.org
@@ -38,7 +38,7 @@ It:
 Eigen is not included in the repository.  
 You must download it and ensure the `Eigen/` directory is visible to the compiler.
 
-** Compilation**
+**Compilation**
 
 If Eigen is installed system-wide or located in `/path/to/eigen`:
 
